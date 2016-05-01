@@ -1,3 +1,5 @@
+/* Author : Yadavendra Yadav */
+
 #include "generic_stuff.h"
 #include "matrix.h"
 
